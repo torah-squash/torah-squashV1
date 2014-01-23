@@ -4,7 +4,7 @@ We are team of five Computer Since students from Bar-Ilan University.
 This is our final proj. Our mission is to build an open-source startup.
 
 Our startup is a newly game which helps people to remember the bibel.
-Using elements from game like Candy Crash and ext.
+We are using elements from games like Candy Crash and ext.
 
 Right now, we have a simple game with a functinality of the board.
 Our next millsone is in March 2, 2014 so we probably going to give a huge push till there.
