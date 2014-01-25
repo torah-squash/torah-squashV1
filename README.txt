@@ -1,6 +1,7 @@
 torah-squashV1
 ==============
 How to run the project? tralala
+test it
 
 Software
 1. You will have to need a local web server on your computer (such as XAMPP or WAMP)
